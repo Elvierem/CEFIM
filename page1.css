@@ -1,0 +1,79 @@
+body
+{
+	text-align: center; 
+	background-image: url("color.jpg");
+    color: #F5F5F5;
+}
+
+h1, h2
+{
+	font-family: Impact, Charcoal, sans-serif;
+	background-color: black;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 10px 10px 10px black;
+	text-decoration: underline;
+	padding-bottom: 15px;
+	padding-top:8px;
+	border: inset 5px black;
+	font-weight: bold;
+	margin-top: 70px;
+	color: #696969;
+	border-radius: 30px;
+}
+
+p
+{
+	background-image: url("iii.jpg");
+	margin: auto;
+	padding: 10px;
+	border: 20px;
+	box-shadow: 10px 10px 10px black;
+	width: 900px;
+	word-wrap: break-word;
+	line-height: 200%;
+	font-family: font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	border: double 5px black;
+	margin-top: 30px;
+	color: white;
+	font-weight: bold;
+	border-radius: 30px;
+	text-shadow: 3px 3px 5px rgba(1,0,218);
+}
+
+.cat
+{
+	box-shadow: 10px 10px 10px black;
+	border: double 5px black;
+}
+
+.diablo
+{
+	box-shadow: 10px 10px 10px black;
+	border: double 5px black;
+}	
+
+.ring
+{
+box-shadow: 10px 10px 10px black;
+	border: double 5px black;
+margin-top: 30px;	
+}
+ul
+{
+	background-image: url("iii.jpg");
+	margin: auto;
+	padding: 10px;
+	box-shadow: 10px 10px 10px black;
+	width: 900px;
+	word-wrap: break-word;
+	line-height: 200%;
+	font-family: font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+	margin-top: 30px;
+	border: double 5px black;
+	color: white;
+	font-weight: bold;
+	border-radius: 30px;
+	text-shadow: 3px 3px 5px rgba(1,0,218);
+}	
